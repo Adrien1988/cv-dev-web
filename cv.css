@@ -33,6 +33,16 @@ body{
   border-right: 10px white dotted;
 }
 
+a{
+  text-decoration: none;
+  color:#94C1E3;
+}
+
+.container a:hover{
+  text-decoration: underline;
+  color:#11514B;
+}
+
 ul{
   list-style: none;
 }
